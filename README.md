@@ -1,5 +1,3 @@
-### Contéudo de meus estudos junto a Alura, projetos e desafios de cada curso das formações de Python para Data Science e Avançando em Data Science com Python. 
+### Contéudo de meus estudos junto a Alura, projetos e desafios de cada curso da formação de Python para Data Science. 
 
 Formação Python para Data Science: Na Formação Python para Data Science da Alura, você conhecerá Python, a linguagem mais popular em Data Science, explorando as bibliotecas mais utilizadas em Ciência de Dados, como Pandas e Numpy. Você aprenderá sobre a coleta, preparação e exploração dos dados com o Pandas em projetos dos mais diversos assuntos.
-
-Formação Avançando em Data Science com Python: Nestes cursos, você aprenderá sobre as principais bibliotecas de visualização de dados, como utilizá-las para extrair informações relevantes e criar tabelas personalizadas. Além disso, você terá a chance de integrar o Python com outras ferramentas e tecnologias, como SQL, PowerBI, Geopandas e Folium.
